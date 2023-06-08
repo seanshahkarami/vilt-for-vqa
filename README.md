@@ -18,4 +18,4 @@ To use it, simply provide an image and a question per line.
 
 ## Screenshot
 
-![Screenshot](screenshot.jpg)
+![Screenshot](./screenshot.png)
