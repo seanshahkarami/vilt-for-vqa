@@ -1,5 +1,5 @@
 ---
-title: Vilt For Vqa
+title: ViLT For Visual Q&A
 emoji: 🌍
 colorFrom: blue
 colorTo: yellow
@@ -9,4 +9,6 @@ app_file: app.py
 pinned: false
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+This is a simple Q&A explorer which uses [ViLT](https://huggingface.co/docs/transformers/model_doc/vilt) fine tuned for visual Q&A use.
+
+To use it, simply provide an image and a question per line.
